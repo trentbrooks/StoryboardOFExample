@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "1D6058900D05DD3D006BFB54"
-               BuildableName = "emptyStoryboardExample.app"
+               BuildableName = "emptyStoryboardOFExample.app"
                BlueprintName = "emptyStoryboardOFExample"
                ReferencedContainer = "container:StoryboardOFExample.xcodeproj">
             </BuildableReference>
@@ -33,7 +33,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1D6058900D05DD3D006BFB54"
-            BuildableName = "emptyStoryboardExample.app"
+            BuildableName = "emptyStoryboardOFExample.app"
             BlueprintName = "emptyStoryboardOFExample"
             ReferencedContainer = "container:StoryboardOFExample.xcodeproj">
          </BuildableReference>
@@ -48,11 +48,12 @@
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
       allowLocationSimulation = "YES">
-      <BuildableProductRunnable>
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1D6058900D05DD3D006BFB54"
-            BuildableName = "emptyStoryboardExample.app"
+            BuildableName = "emptyStoryboardOFExample.app"
             BlueprintName = "emptyStoryboardOFExample"
             ReferencedContainer = "container:StoryboardOFExample.xcodeproj">
          </BuildableReference>
@@ -66,11 +67,12 @@
       useCustomWorkingDirectory = "NO"
       buildConfiguration = "Release"
       debugDocumentVersioning = "YES">
-      <BuildableProductRunnable>
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1D6058900D05DD3D006BFB54"
-            BuildableName = "emptyStoryboardExample.app"
+            BuildableName = "emptyStoryboardOFExample.app"
             BlueprintName = "emptyStoryboardOFExample"
             ReferencedContainer = "container:StoryboardOFExample.xcodeproj">
          </BuildableReference>
